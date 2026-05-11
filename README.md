@@ -1,5 +1,4 @@
-# info-645-final-project
-# The Socioeconomics of Science and Faith
+# Final Project: The Socioeconomics of Science and Faith
 **Author:** Maanya Agarwal  
 **Course:** INFO 640 Data Analysis  
 
