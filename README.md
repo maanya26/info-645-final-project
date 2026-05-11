@@ -1,3 +1,4 @@
+<img width="700" height="350" alt="34389091-9DD2-4908-88C8-73BC0A4F7718_4_5005_c" src="https://github.com/user-attachments/assets/cf383f95-7f3b-4368-8267-ff58d385e580" />
 # Final Project: The Socioeconomics of Science and Faith
 **Author:** Maanya Agarwal  
 **Course:** INFO 640 Data Analysis  
