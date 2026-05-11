@@ -2,6 +2,7 @@
 
 # The Socioeconomic war between Science and Faith: 
 **Author:** Maanya Agarwal
+
 **Course:** INFO 640 Data Analysis  
 
 ## Project Overview
