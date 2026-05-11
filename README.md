@@ -18,8 +18,8 @@ The project delivers three primary analytical components:
 
 ## Data Source
 Data is drawn from the **World Values Survey Wave 7 (2017-2022)**. 
-* **Source:** Haerpfer, C., et al. (Eds.). (2022). World Values Survey: Round Seven - Country-Pooled Datafile Version 6.0. 
-* **Access:** The raw dataset is provided in the `/data` folder. For original source documentation, visit the [WVS Website](https://www.worldvaluessurvey.org/).
+* **Source:** Haerpfer, C., Inglehart, R., Moreno, A., Welzel, C., Kizilova, K., Diez-Medrano J., M. Lagos, P. Norris, E. Ponarin & B. Puranen (eds.). 2022. World Values Survey: Round Seven – Country-Pooled Datafile Version 6.0. Madrid, Spain & Vienna, Austria: JD Systems Institute & WVSA Secretariat. (doi:10.14281/18241.24)
+* **Access:** The raw dataset is provided in the `/data` folder. For original source documentation, visit the [WVS Website](https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp).
 
 ## How to use
 
