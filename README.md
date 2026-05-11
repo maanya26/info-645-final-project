@@ -2,8 +2,8 @@
 
 # The Socioeconomics of Science and Faith: Identifying Demographic and Cognitive Predictors of Belief Centricity
 
-**Team:** Maanya Agarwal  
-**Affiliation:** [Pratt Institute](https://www.pratt.edu/), [School of Information](https://www.pratt.edu/information)  
+**Team:** [Maanya Agarwal](www.linkedin.com/in/maanya-agarwal)  
+**Affiliation:** [Pratt Institute, School of Information](https://www.pratt.edu/information)  
 **Course:** INFO 640: Data Analysis  
 **Instructor:** [John Lauermann](https://github.com/jlauermann)
 
