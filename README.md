@@ -42,8 +42,7 @@ Each script defines its required packages and utilizes project-oriented workflow
 * **Gender Disparity:** Men are significantly more likely to prioritize scientific frameworks, while women show a higher probability of faith-centricity.
 
 ## Derivative Products
-* [Final Model Results PDF](./Maanya_Agarwal_Model_Results.pdf): Detailed write-up of statistical interpretations and Bayesian diagnostics.
-* [EDA Check-in PDF](./Maanya_Agarwal_EDA_Check_In.pdf): Hypothesis development and preliminary dimensionality checks.
+* [Detailed Project Case Study]()
 
 ## How to Cite
 Agarwal, M. (2026). *The Socioeconomics of Science and Faith: Identifying Demographic and Cognitive Predictors of Belief Centricity*. INFO 640 Data Analysis, Pratt Institute.
