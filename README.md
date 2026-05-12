@@ -18,8 +18,12 @@ The project delivers three primary analytical components:
 
 ## Data Source
 Data is drawn from the **World Values Survey Wave 7 (2017-2022)**. 
+To protect copyright and ensure data integrity, the raw dataset is not hosted in this repository. To run these scripts:
+1. Visit the [WVS Database Download Page](https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp).
+2. Download the **WVS Wave 7 RData file** (e.g., `WVS_Cross-National_Wave_7_Rdata_v6_0`).
+3. Place the downloaded `.rdata` file into your project folder before running the scripts.
+   
 * **Source:** Haerpfer, C., Inglehart, R., Moreno, A., Welzel, C., Kizilova, K., Diez-Medrano J., M. Lagos, P. Norris, E. Ponarin & B. Puranen (eds.). 2022. World Values Survey: Round Seven – Country-Pooled Datafile Version 6.0. Madrid, Spain & Vienna, Austria: JD Systems Institute & WVSA Secretariat. doi:10.14281/18241.24
-* **Access:** The raw dataset is provided in the `/data` folder. For original source documentation, visit the [WVS Website](https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp).
 
 ## How to use
 
