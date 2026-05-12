@@ -23,7 +23,7 @@ To protect copyright and ensure data integrity, the raw dataset is not hosted in
 2. Download the **WVS Wave 7 RData file** (e.g., `WVS_Cross-National_Wave_7_Rdata_v6_0`).
 3. Place the downloaded `.rdata` file into your project folder before running the scripts.
    
-* **Source:** Haerpfer, C., Inglehart, R., Moreno, A., Welzel, C., Kizilova, K., Diez-Medrano J., M. Lagos, P. Norris, E. Ponarin & B. Puranen (eds.). 2022. World Values Survey: Round Seven – Country-Pooled Datafile Version 6.0. Madrid, Spain & Vienna, Austria: JD Systems Institute & WVSA Secretariat. doi:10.14281/18241.24
+**Source:** Haerpfer, C., Inglehart, R., Moreno, A., Welzel, C., Kizilova, K., Diez-Medrano J., M. Lagos, P. Norris, E. Ponarin & B. Puranen (eds.). 2022. World Values Survey: Round Seven – Country-Pooled Datafile Version 6.0. Madrid, Spain & Vienna, Austria: JD Systems Institute & WVSA Secretariat. doi:10.14281/18241.24
 
 ## How to use
 
